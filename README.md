@@ -10,6 +10,10 @@ This program fetches departure times from the [Västtrafik](https://www.vasttraf
 ![Usage example 4](4.jpg)
 ![Usage example 5](5.jpg)
 
+
+## Schamtic 
+![Schamtic](schamtic.png)
+
 ## Installation
 1. Clone the repository
 2. Install Python 3.8
